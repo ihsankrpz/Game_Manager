@@ -2,7 +2,7 @@
     {
         "title": "GTA 6",
         "year": 2025,
-        "imageUrl": "/images/gta6.jpg"    
+        "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.89827MMU3G-FyzeBKv17RwHaEK%26pid%3DApi&f=1&ipt=f3c0c0805cd95bd15ad7b4aa5d4c14853bcd34f75bff90fff8d900bd25465163&ipo=images"    
     },
     {   
         "title": "EA FC 24",
@@ -12,21 +12,21 @@
     {
         "title": "CyberPunk 2077",
         "year": 2020,
-        "imageUrl":  "/images/cyberpunk2077.jpg"    
+        "imageUrl":  "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftwinfinite.net%2Fwp-content%2Fuploads%2F2020%2F06%2FCyberpunk-2077-5.jpg&f=1&nofb=1&ipt=de85e5f94cc8e86d3e2f34ed0f25208fa91119e4085abae19f42b48aca90095d&ipo=images"    
     },
     {
         "title": "Spider Man 2",
         "year": 2023,
-        "imageUrl": "/images/spiderman2.jpg"     
+        "imageUrl": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fs3.amazonaws.com%2Fdigitaltrends-uploads-prod%2F2014%2F04%2FASM2_main.jpg&f=1&nofb=1&ipt=9270ed46682c4f7e9348c135e8834a0edb9e9ecf4b7820e5720944a51cd88273&ipo=images"     
     },
     {
         "title": "Assassin's Creed Mirage",
         "year": 2023,
-        "imageUrl": "/images/assasinscreedMirage.jpg"
+        "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theloadout.com%2Fwp-content%2Fsites%2Ftheloadout%2F2023%2F05%2Fassassins-creed-mirage-release-date-2.jpg&f=1&nofb=1&ipt=e51a8e27d239fa6c73dec968bb505b1df18789bdc9d6fde1a6b0369201ca211f&ipo=images"
     },
     {
         "title": "F1 23",
         "year": 2023,
-        "imageUrl": "/images/f123.jpg"
+        "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages5.alphacoders.com%2F327%2F327281.jpg&f=1&nofb=1&ipt=42cdfc93a7e37d9c915bf91ad4f3dfcd4ca36ceaf1a66a41a8a56cba1e11b2eb&ipo=images"
     }
 ]
