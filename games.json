@@ -2,31 +2,31 @@
     {
         "title": "GTA 6",
         "year": 2025,
-        "imageUrl": "https://cdn-uploads.gameblog.fr/img/news/406695_632aeb4e614df.jpg"    
+        "imageUrl": "/images/gta6.jpg"    
     },
     {   
         "title": "EA FC 24",
         "year": 2023,
-        "imageUrl": "https://www.tomsguide.fr/content/uploads/sites/2/2023/09/Sports-FC-24-EA-early-access.jpg"    
+        "imageUrl": "/images/eafc24.jpg"    
     },
     {
         "title": "CyberPunk 2077",
         "year": 2020,
-        "imageUrl":  "https://store-images.s-microsoft.com/image/apps.33953.13687136405930807.a178e713-8574-42ad-906f-96bc60c0a3a5.0def0fbb-5fc1-46a6-8604-62c260cfc70d?mode=scale&q=90&h=720&w=1280&format=jpg"    
+        "imageUrl":  "/images/cyberpunk2077.jpg"    
     },
     {
         "title": "Spider Man 2",
         "year": 2023,
-        "imageUrl": "https://www.leparisien.fr/resizer/kv9dsRxcDRhlvvSju5uJ2HX7aHE=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/44W4O6U7LNA3ZLSW4R662Z6AIQ.jpeg"    
+        "imageUrl": "/images/spiderman2.jpg"     
     },
     {
         "title": "Assassin's Creed Mirage",
         "year": 2023,
-        "imageUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4jk9umchC6RomrmUMzJj4k/ae72f547328f84428d4b98a663bceec6/acm-page-meta-960x540.jpg"
+        "imageUrl": "/images/assasinscreedMirage.jpg"
     },
     {
         "title": "F1 23",
         "year": 2023,
-        "imageUrl": "https://blogautomobile.fr/wp-content/uploads/2023/03/334301254_750611203109704_7848602418226407478_n-760x507.jpg"
+        "imageUrl": "/images/f123.jpg"
     }
 ]
